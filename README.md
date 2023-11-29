@@ -34,6 +34,10 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
 
+```
+git clone https://github.com/your_username_/Project-Name.git
+```
+
 2. Install NPM packages
 ```
 npm install 
@@ -44,9 +48,14 @@ npm install
 ####
 Prerequisites: Have Python downloaded. You can use any text editor. That's it!
 
-You only have to run milestone_5.py
+You only have to run milestone_5.py in the hangman-project directory.
 ```
-python milestone.py
+python milestone_5.py
 ```
 
 If you want to change the word selections for the game, add as many words as you'd like in the list in play_game() at the bottom. 
+
+## Contributions
+
+#### 
+I'd like to express my deepest thanks for the support team at AiCore who have been nothing but helpful and understanding. 
