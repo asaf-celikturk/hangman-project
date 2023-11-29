@@ -1,6 +1,6 @@
-# Hangman-project
+# Hangman Project
 
-# Table of Content
+## Table of Content
 1. Introduction
 2. Description
 3. Installation instructions
@@ -18,4 +18,8 @@ Hi I'm Asaf and I am currently taking the Aicore course following the Data Analy
 ## Description
 
 ####
-As you can guess from the title, in this project I will be replicating the classic childhood game Hangman. 
+As you can assume from the title, in this project I will be replicating the classic childhood game Hangman. 
+
+In the milestone_2.py file, I first created a list of words (fruit themed) and chose a random word from it to start the game. I then developed the logic to check if, the letter entered by the user is valid, and whether the letter is in the random word. 
+
+Next, in the milestone_3.py file, I cleaned up the code by adding the above logic into functions - check_guess and ask_for_input.
